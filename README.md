@@ -1,4 +1,4 @@
 # demo-repo3
-Some Dwscription!
+Some Description!
 ## Subheader
 Watch tutorial
